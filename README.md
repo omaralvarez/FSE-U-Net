@@ -27,7 +27,7 @@ The repo is still under construction, thanks for your patience.
 ## 📜 Citation
 
 ```
-@Article{montoya2026symbolic,
+@Article{mures2026flow,
   author = {Mures, Omar A. and Cid Montoya, Miguel and Juan Garc{\'i}a-Tiz{\'o}n},
   title = {Flow-driven prediction of bluff body fluid-structure interaction: A dual-band flow superposition approach for deep learning emulation via a novel physics-informed FSE-U-Net},
   year = {2026}
