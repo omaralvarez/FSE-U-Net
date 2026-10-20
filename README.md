@@ -14,7 +14,7 @@
 	<a href='https://opensource.org/license/lgpl-2-1'><img src='https://img.shields.io/badge/license-LGPLv2+-blue' /></a>
 </p>
 
-# 🎚️ FSE-UNet
+# 🎚️ FSE-U-Net
 
 [**Flow-driven prediction of bluff body fluid–structure interaction**](https://www.sciencedirect.com/science/article/pii/S0167610526002825)<br/>
 [Omar A. Mures](https://omaralv.com/), [Juan García-Tizón](), [Miguel Cid Montoya](https://mcidmontoya.com/)
